@@ -1,4 +1,11 @@
-### Hi there 👋
+# About Me #
+
+- Work: I am a diagnostic & nuclear radiology resident at University of Texas Medical Branch, finishing my training in June 2024.
+  
+- Education: I completed medical school at the Aga Khan Medical College in Karachi, Pakistan.
+  
+- Interests: I am passionate about biomedical informatics, 3D printing, and building devices with Raspberry Pi/Arduinos.
+
 
 <!--
 **aemanmuneeb/aemanmuneeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
