@@ -2,9 +2,9 @@
 
 - Work: I am a diagnostic & nuclear radiology resident at University of Texas Medical Branch, finishing my training in June 2024.
   
-- Education: I completed medical school at the Aga Khan Medical College in Karachi, Pakistan.
+- Education: I completed medical school (MD) at the Aga Khan Medical College in Karachi, Pakistan.
   
-- Interests: I am passionate about biomedical informatics, 3D printing, and building devices with Raspberry Pi/Arduinos.
+- Interests: I am passionate about biomedical informatics, 3D printing, and prototyping devices with Raspberry Pi/Arduinos.
 
 
 <!--
