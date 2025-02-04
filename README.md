@@ -1,8 +1,8 @@
 # About Me #
 
-- Work: I am a diagnostic & nuclear radiology resident at University of Texas Medical Branch, finishing my training in June 2024.
+- Work: I am an abdominal imaging and intervention fellow at Brigham & Women's Hospital and th Dana-Farber Cancer Institute. 
   
-- Education: I completed medical school (MD) at the Aga Khan Medical College in Karachi, Pakistan.
+- Education: I completed medical school (MD) at the Aga Khan Medical College in Karachi, Pakistan; and diagnostic & nuclear radiology resident at University of Texas Medical Branch Hospitals.
   
 - Interests: I am passionate about biomedical informatics, 3D printing, and prototyping devices with Raspberry Pi/Arduinos.
 
